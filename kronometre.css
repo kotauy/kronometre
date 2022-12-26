@@ -45,11 +45,6 @@ button {
     outline: none;
 }
 
-button:hover {
-    -webkit-transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out;
-    background: #23B000;
-    border: solid 1px #23B000;
-    color: #23B000;
-}
+
+
+
